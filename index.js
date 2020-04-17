@@ -12,6 +12,7 @@ module.exports={
 	cube:function(int a){
 		return a*a*a;
 	},
+
 	mod:function(int a,int b){
 		return a%b;
 
@@ -21,6 +22,10 @@ module.exports={
 	},
 	square:function(int a){
 		return a*a;
+
+	},
+	mul:function (int a,int b){
+		return a*b;
 
 	}
     
