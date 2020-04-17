@@ -7,6 +7,7 @@ module.exports={
 		return a/b;
 	},
 
+
 	cube:function(int a){
 		return a*a*a;
 	},
