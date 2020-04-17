@@ -8,11 +8,19 @@ module.exports={
 	},
 
 
+
 	cube:function(int a){
 		return a*a*a;
 	},
 	mod:function(int a,int b){
 		return a%b;
+
+
+	subtract:function(int a,int b){
+		return a-b;
+	},
+	square:function(int a){
+		return a*a;
 
 	}
     
