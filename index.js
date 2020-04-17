@@ -1,5 +1,6 @@
 module.exports={
-    add : function(){
+    add : function(int a,int b){
+		return a+b;
     },
     
 };
